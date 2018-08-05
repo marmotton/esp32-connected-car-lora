@@ -18,7 +18,6 @@ CAN_device_t CAN_cfg; // Must be named "CAN_cfg" and global as the name is used 
 // GPS
 #include <TinyGPS++.h>
 TinyGPSPlus gps;
-HardwareSerial Serial1(1);
 TimerHandle_t gpsTimer;
 
 // I2C (temperature sensor and OLED display)
