@@ -1,7 +1,7 @@
 # esp32-connected-car-lora
 Connecting a Nissan e-NV200 to TheThingsNetwork.
 
-*Be careful, this is a work in progress !*
+*This is an abandoned project. I replaced the LoRa communication with MQTT over GSM as I need network coverage anywhere and energy supply is not an issue. See my esp32-connected-car repository.*
 
 ## Hardware
 
